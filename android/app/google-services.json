@@ -1,0 +1,126 @@
+{
+  "project_info": {
+    "project_number": "335056704408",
+    "project_id": "meet-c4483",
+    "storage_bucket": "meet-c4483.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335056704408:android:76785ca4d4180ae55011ed",
+        "android_client_info": {
+          "package_name": "com.example.bus_booking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "335056704408-2fltcg0nveisjqlqrjam2gk140t60kv1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXPYTAfqlunppLokjOiZg0ASdiyrfvt8Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "335056704408-2fltcg0nveisjqlqrjam2gk140t60kv1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "335056704408-01cl16j8uvn5ndg8nh333q6bchcqp961.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.firebasenewproj"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335056704408:android:8ae9c4241c2c88105011ed",
+        "android_client_info": {
+          "package_name": "com.example.firebasenewproj"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "335056704408-2fltcg0nveisjqlqrjam2gk140t60kv1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXPYTAfqlunppLokjOiZg0ASdiyrfvt8Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "335056704408-2fltcg0nveisjqlqrjam2gk140t60kv1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "335056704408-01cl16j8uvn5ndg8nh333q6bchcqp961.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.firebasenewproj"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335056704408:android:f0f4b6837134ad265011ed",
+        "android_client_info": {
+          "package_name": "com.example.meet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "335056704408-fvnjfs84138vp3mvhitvcn22ihsegq9p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.meet",
+            "certificate_hash": "bfeef00d7bfe7b35626d23417e5456df13dd65f1"
+          }
+        },
+        {
+          "client_id": "335056704408-2fltcg0nveisjqlqrjam2gk140t60kv1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXPYTAfqlunppLokjOiZg0ASdiyrfvt8Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "335056704408-2fltcg0nveisjqlqrjam2gk140t60kv1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "335056704408-01cl16j8uvn5ndg8nh333q6bchcqp961.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.firebasenewproj"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
